@@ -37,7 +37,7 @@ Tank OpenBot 2WD OpenBot Cardboard OpenBot Baby Yoda OpenBot
 
 ### Contact
 Join our Slack channel to connect with the OpenBot community.
-Contact us via Email
+Contact us via Email mailto:digital.ready.skills@gmail.com
 Contribute
 Please read the contribution guidelines. If you are not sure where to start have a look at the open issues.
 
