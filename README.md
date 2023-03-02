@@ -36,7 +36,8 @@ There are a lot of cool projects using OpenBot already. Below is a small selecti
 Tank OpenBot 2WD OpenBot Cardboard OpenBot Baby Yoda OpenBot
 
 ### Contact
-- Join our Slack channel to connect with the OpenBot community.
+- Join our <a href="https://join.slack.com/t/openbot-community/shared_invite/zt-jl8ygxqt-WNRNi9yzh7Lu60qui6Nh6w" rel="nofollow">Slack</a> channel to connect with the OpenBot community.channel to connect with the OpenBot community.channel to connect with the OpenBot community.
+
 - Contact us via Email mailto:digital.ready.skills@gmail.com
 - Contribute
 Please read the contribution guidelines. If you are not sure where to start have a look at the open issues.
