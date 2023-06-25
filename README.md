@@ -1,17 +1,12 @@
-## BrainAI Sorter Project
+## 다중자동분류기 개발 체험 학습에 필요한 소스 코드를 제공합니다. 
 
-### 구글 티처블 머신, P5js, Python, OpenCV, Intel® OpenVINO Pro-trained 모델을 활용한 AI 분류기 개발 실습하기
-https://docs.openvino.ai/2022.3/home.html 
+체험 순서
 
-### 마이크로비트 소스 코드
-https://makecode.microbit.org/_JF1a5ohMRai1
+1차시. 자동분류기술의 도전과 AI 프로젝트 사이클
+2-3차시. 다중자동분류기 키트 제작 원리 이해 및 수동분류 테스트
+4차시. 컴퓨터 비전 이해 및 구글 티처블 머신 활용 AI 모델 개발
+5-6차시. 다중자동분류기 자동분류 테스트
+7차시. 텍스트 인식 모델 활용 자동분류 테스트
 
-#### 구글 티처블 머신을 활용한 AI 모델 개발
-#### P5js를 활용한 AI 분류기 제품 개발
-#### Python & OpenCV를 활용한 AI 분류기 제품 개발
-https://vimeo.com/showcase/9035861/video/631723038
+프로젝트 실행 영상. https://vimeo.com/showcase/9035861/video/631723038
 
-#### OpenVINO Text Recognition 모델 활용 AI 분류기 제 개발
-
-
-영상을 통해 확인 해 봅시다.
