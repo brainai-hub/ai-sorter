@@ -9,5 +9,7 @@
 - 5-6차시. 다중자동분류기 자동분류 테스트
 - 7차시. 텍스트 인식 모델 활용 자동분류 테스트
 
-### 프로젝트 실행 영상. [링크](https://vimeo.com/showcase/9035861/video/631723038)
+### 프로젝트 실행 영상. 
+- [링크1.](https://www.youtube.com/watch?v=CLZmixLPicI)
+- [링크2.](https://vimeo.com/showcase/9035861/video/631723038)
 
