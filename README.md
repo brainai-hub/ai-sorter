@@ -2,7 +2,9 @@
 
 ### 체험 학습 순서
 
-- 1차시. 자동분류기술의 도전과 AI 프로젝트 사이클: [High Speed AI Bottle Sorter](https://github.com/brainai-hub/ai-sorter/assets/73767162/822468b9-88dc-4133-8e3e-7c260dcef986), [Sweeper AI Robot](https://github.com/brainai-hub/ai-sorter/assets/73767162/7587d12b-8b7f-4367-9062-eabb98fb4d8b)
+- 1차시. 자동분류기술의 도전과 AI 프로젝트 사이클:
+* [High Speed AI Bottle Sorter](https://www.youtube.com/watch?v=E30VP9_0M98), 
+* [Sweeper AI Harvest Robot](https://www.youtube.com/watch?v=5chk9Sory88)
 
 - 2-3차시. 다중자동분류기 키트 제작 원리 이해 및 수동분류 테스트
 - 4차시. 컴퓨터 비전 이해 및 구글 티처블 머신 활용 AI 모델 개발: [티처블 머신](https://teachablemachine.withgoogle.com/)
