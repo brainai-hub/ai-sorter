@@ -33,20 +33,13 @@ pip install pillow
 
 ### 4️⃣ 데이터 처리 & 시각화
 ```명령 프롬프트
-pip install numpy>=1.24.0
-pip install pandas>=2.0.0
-pip install matplotlib>=3.7.0
+pip install numpy
+pip install matplotlib
 ```
 
 ### 5️⃣ 게임 컨트롤러
 ```명령 프롬프트
 pip install pygame
-```
-
-### 6️⃣ 유틸리티
-```명령 프롬프트
-pip install tqdm>=4.65.0
-pip install python-dateutil>=2.8.2
 ```
 
 ---
