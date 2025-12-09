@@ -9,7 +9,7 @@
 
 🔍 Library Version Details
 --------------------------------------------------
-1. pip install --upgrade pip
+1. python.exe -m pip install --upgrade pip
 2. pip install tensorflow==2.19.0
 3. pip install keras==3.11.2
 4. pip install openvino==2025.2.0
