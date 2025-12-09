@@ -24,14 +24,14 @@ pip install pyserial
 pip install jupyterlab
 ```
 
-### 3️⃣ 컴퓨터 비전
+### 3️⃣ 컴퓨터 비전 & 이미지 처리
 ```명령 프롬프트
 pip install opencv-python
+pip install pillow
 ```
 
-### 4️⃣ 이미지 처리 & 게임 컨트롤러
+### 4️⃣ 게임 컨트롤러
 ```명령 프롬프트
-pip install pillow
 pip install pygame
 ```
 
