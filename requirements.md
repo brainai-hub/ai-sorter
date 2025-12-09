@@ -28,18 +28,19 @@ pip install jupyterlab
 ```명령 프롬프트
 pip install opencv-python
 pip install pillow
+* PIL(Python Imaging Library)
 ```
 
-### 4️⃣ 게임 컨트롤러
-```명령 프롬프트
-pip install pygame
-```
-
-### 5️⃣ 데이터 처리 & 시각화
+### 4️⃣ 데이터 처리 & 시각화
 ```명령 프롬프트
 pip install numpy>=1.24.0
 pip install pandas>=2.0.0
 pip install matplotlib>=3.7.0
+```
+
+### 5️⃣ 게임 컨트롤러
+```명령 프롬프트
+pip install pygame
 ```
 
 ### 6️⃣ 유틸리티
