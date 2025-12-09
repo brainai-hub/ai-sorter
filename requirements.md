@@ -18,7 +18,8 @@ python.exe -m pip install --upgrade pip
 pip install tensorflow==2.19.0
 pip install keras==3.11.2
 pip install openvino==2025.2.0
-pip install ultralytics>=8.0.0
+pip install -U ultralytics
+* https://docs.ultralytics.com/ko/quickstart/
 pip install pyserial>=3.5
 ```
 
