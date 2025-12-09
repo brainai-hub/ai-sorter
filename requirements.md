@@ -19,6 +19,7 @@ pip install tensorflow==2.19.0
 pip install keras==3.11.2
 pip install openvino==2025.2.0
 * https://docs.openvino.ai/2025/about-openvino/release-notes-openvino/system-requirements.html
+* https://github.com/openvinotoolkit/openvino
 pip install -U ultralytics
 * https://docs.ultralytics.com/ko/quickstart/
 pip install pyserial
