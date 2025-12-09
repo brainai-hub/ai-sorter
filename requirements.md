@@ -9,12 +9,12 @@
 ## 📦 필수 라이브러리 설치 순서
 
 ### 1️⃣ pip 업그레이드
-```bash
+```명령 프롬프트
 python.exe -m pip install --upgrade pip
 ```
 
 ### 2️⃣ 핵심 라이브러리 설치
-```bash
+```명령 프롬프트
 pip install tensorflow==2.19.0
 pip install keras==3.11.2
 pip install openvino==2025.2.0
@@ -23,26 +23,26 @@ pip install pyserial>=3.5
 ```
 
 ### 3️⃣ 컴퓨터 비전
-```bash
+```명령 프롬프트
 pip install opencv-python>=4.8.0
 pip install opencv-contrib-python>=4.8.0
 ```
 
 ### 4️⃣ 이미지 처리 & 게임 컨트롤러
-```bash
+```명령 프롬프트
 pip install pillow>=10.0.0
 pip install pygame>=2.5.0
 ```
 
 ### 5️⃣ 데이터 처리 & 시각화
-```bash
+```명령 프롬프트
 pip install numpy>=1.24.0
 pip install pandas>=2.0.0
 pip install matplotlib>=3.7.0
 ```
 
 ### 6️⃣ 유틸리티
-```bash
+```명령 프롬프트
 pip install tqdm>=4.65.0
 pip install python-dateutil>=2.8.2
 ```
