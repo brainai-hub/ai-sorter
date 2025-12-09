@@ -20,7 +20,7 @@ pip install keras==3.11.2
 pip install openvino==2025.2.0
 pip install -U ultralytics
 * https://docs.ultralytics.com/ko/quickstart/
-pip install pyserial>=3.5
+pip install pyserial
 ```
 
 ### 3️⃣ 컴퓨터 비전
