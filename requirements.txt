@@ -1,0 +1,62 @@
+# BrainAI Sorter Requirements
+
+🔍 Python
+--------------------------------------------------
+✅ Version:3.12.2
+
+가상 환경: python –m venv vbrainai
+
+
+🔍 Library Version Details
+--------------------------------------------------
+1. pip install --upgrade pip
+2. pip install tensorflow==2.19.0
+3. pip install keras==3.11.2
+4. pip install openvino==2025.2.0
+5. pip install pyserial
+6. pip install opencv-python
+7. pip install pillow
+8. pip install pygame
+
+
+# PS4 Controller Support
+pygame>=2.5.0
+pip show pygame
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+  * Installing collected packages: numpy, opencv-python
+  * Successfully installed numpy-2.2.6 opencv-python-4.12.0.88   
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# OpenVINO for Inference
+openvino>=2023.0.0
+
+# Object Detection
+ultralytics>=8.0.0
+
+# Serial Communication
+pyserial>=3.5
+  * Installing collected packages: pyserial
+  * Successfully installed pyserial-3.5
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+pillow>=10.0.0
+
+# Utilities
+tqdm>=4.65.0
+
+python-dateutil>=2.8.2
+
+
+
+
+
+
