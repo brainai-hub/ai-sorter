@@ -7,7 +7,7 @@
 - 2-3차시. 다중자동분류기 키트 제작 원리 이해 및 수동분류 테스트
 - 4차시. 컴퓨터 비전 이해 및 구글 티처블 머신 활용 AI 모델 개발: [티처블 머신](https://teachablemachine.withgoogle.com/)
 - 5-6차시. 다중자동분류기 자동분류 테스트
-- 7차시. 텍스트 인식 모델 활용 자동분류 테스트
+
 
 ### 프로젝트 실행 영상. 
 - [링크1.](https://www.youtube.com/watch?v=CLZmixLPicI)
